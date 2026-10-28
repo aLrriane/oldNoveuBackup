@@ -1,40 +1,3 @@
-Claude
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Db · PHP
 <?php
 // config/db.php  -- safe to commit: contains NO real passwords.
  
@@ -118,5 +81,3 @@ class Database {
 $database = new Database();
 $pdo = $database->connect();
 ?>
- 
-Claude finished the response
